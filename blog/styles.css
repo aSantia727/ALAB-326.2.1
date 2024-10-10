@@ -1,0 +1,29 @@
+body{
+    background-color: hsl(47, 88%, 63%)
+}
+#shell{
+    margin-left: auto;
+    margin-right: auto;
+    width: 384px;
+    height: 522px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 1px black;
+}
+#learning{
+    width: 60px;
+    height: 18pxpx;   
+    background-color: hsl(47, 88%, 63%)
+}
+.funImage{
+    border-radius: 20px;
+    width: 336px;
+    height: 200px;
+    margin: 20px 20px;
+}
+#textBox{
+    width: 336px;
+    height: 994px;
+    
+}
